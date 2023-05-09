@@ -1,1 +1,1 @@
-# bilal-labs.github.io
+# [bilal-labs](https://bilalibniqbal.github.io/bilal-labs)
