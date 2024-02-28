@@ -1,0 +1,16 @@
+{
+  "hosting": {
+    "public": "https://github.com/bilalibniqbal/bilal-labs.git",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
