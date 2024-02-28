@@ -1,6 +1,7 @@
 Deploying Your Website on Firebase for Free:
 
 
+
 Step 1: Create a Firebase Account
 
 Before you start deploying your website, you need to have a Firebase account. If you don’t have one yet, you can easily create it by visiting the Firebase website (https://firebase.google.com/) and signing in with your Google account.
